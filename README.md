@@ -18,7 +18,8 @@ Semiconductor Implementation: Synthesis LEC,APR
 * Cadence Innovus : Auto Place and Route
 * GIT : Source Control Management(SCM)
 * GITHUB : Git cloud Sever
-
+## 업데이트 방법
+0. visual studio save
 1. git status
 2. git add
 3. git add README.md
